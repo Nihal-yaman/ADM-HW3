@@ -5,6 +5,14 @@ Matteo Sorrentini - sorrentini.2023085@studenti.uniroma1.it<br>
 Arian Gharehmohammadzadehghashghaei - Gharehmohammadzadehghashghaei.2103465@studenti.uniroma1.it<br>
 Andrea Stella - astella0303@gmail.com
              
+### **Interactive Map Visualization**
+
+Due to GitHub's rendering limitations, interactive maps created using libraries like `Plotly` or `Folium` cannot be displayed directly in this repository. To overcome this, we have provided an **nbviewer** link where you can view our interactive maps and visualizations.
+
+You can view the interactive maps and visualizations by clicking the link below:
+
+👉 **[View Interactive Maps on nbviewer]()**
+
 
 
 
