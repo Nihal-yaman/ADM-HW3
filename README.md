@@ -1,8 +1,9 @@
 #ADM HOMEWORK 3
-## GROUP 15 - Nihal Yaman Yılmaz - nihalyaman20@gmail.com
-## Matteo Sorrentini - sorrentini.2023085@studenti.uniroma1.it
-##  Arian Gharehmohammadzadehghashghaei - Gharehmohammadzadehghashghaei.2103465@studenti.uniroma1.it
-## Andrea Stella - astella0303@gmail.com
+### GROUP 15
+Nihal Yaman Yılmaz - nihalyaman20@gmail.com
+Matteo Sorrentini - sorrentini.2023085@studenti.uniroma1.it
+Arian Gharehmohammadzadehghashghaei - Gharehmohammadzadehghashghaei.2103465@studenti.uniroma1.it
+Andrea Stella - astella0303@gmail.com
              
 
 
